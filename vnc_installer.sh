@@ -17,6 +17,7 @@ clear
 apt install xfce4 xfce4-goodies -y
 apt install tightvncserver -y
 apt install firefox terminator -y
+apt install xfonts-base -y
 # ---------------------------------- #
 
 sleep 3
