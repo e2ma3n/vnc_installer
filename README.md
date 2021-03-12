@@ -1,4 +1,4 @@
-# vnc_installer
+# vnc.installer
 
 ## How to install ?
 ```
