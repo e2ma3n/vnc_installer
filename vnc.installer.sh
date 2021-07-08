@@ -65,6 +65,7 @@ apt-get install -y firefox
 apt-get install -y firefox-esr
 apt-get install -y terminator
 apt-get install -y tigervnc-standalone-server
+apt-get install -y libxss1
 # ------------------------------------------------------------------------------------------------------- #
 
 
